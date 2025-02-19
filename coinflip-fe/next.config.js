@@ -4,4 +4,4 @@ const nextConfig = {
   target: 'serverless'
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;
